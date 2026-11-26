@@ -1,0 +1,173 @@
+=== SECTION CONTENT PROFILE (sampled) ===
+.text      raw= 321,680,384 (  306.8 MiB) entropy=6.28 zero=12.6% printable=37.9% head=488b01f048ff087505e93dc6a607c3cc554883ec30488d6c243048c745f8feff
+.rdata     raw=  79,268,352 (   75.6 MiB) entropy=6.92 zero=14.1% printable=41.2% head=0202020202020202020202020202020208080808080808080808080808080808
+.data      raw=   6,134,272 (    5.9 MiB) entropy=6.78 zero=10.1% printable=32.6% head=50532d530100000060532d5301000000000000000000000080532d5301000000
+.pdata     raw=  24,327,168 (   23.2 MiB) entropy=6.80 zero=2.6% printable=35.6% head=101000004e1000000020c5194e1000006c1000001420c5190b11000046110000
+.eh_fram   raw=         512 (    0.0 MiB) entropy=5.36 zero=33.2% printable=19.3% head=1400000000000000017a5200017c1001000c0708900200001c0000001c000000
+.fptable   raw=         512 (    0.0 MiB) entropy=5.36 zero=33.1% printable=19.3% head=0000000000000000000000000000000000000000000000000000000000000000
+.itt_not   raw=       5,632 (    0.0 MiB) entropy=5.36 zero=32.9% printable=19.2% head=2e6974745f6e6f746966795f74616200010106009c00000027000000c3000000
+.pdata     raw=      33,792 (    0.0 MiB) entropy=5.17 zero=34.5% printable=19.3% head=50a3b411aba3b411f030e517aba3b411eea3b411f830e517eea3b41112a5b411
+.tls       raw=      17,408 (    0.0 MiB) entropy=5.02 zero=34.6% printable=19.8% head=0000000000000000000000000000000000000000000000000000000000000000
+.xdata     raw=  84,885,504 (   81.0 MiB) entropy=5.38 zero=27.3% printable=21.1% head=190a03350a03055201500000d08eff121c20c519010e02000a32065022059319
+IPPCODE    raw=     439,808 (    0.4 MiB) entropy=6.71 zero=7.4% printable=36.2% head=48c7c001000000c35348c7c0010000000fa24833c048f7c2100000000f95c05b
+IPPDATA    raw=       2,048 (    0.0 MiB) entropy=6.60 zero=5.1% printable=22.3% head=0000803ff404353f00000000f40435bf00000000f40435bf000080bff40435bf
+_RDATA     raw=       4,096 (    0.0 MiB) entropy=6.60 zero=4.3% printable=22.4% head=000000800000008000000080000000800000004b0000004b0000004b0000004b
+.rsrc      raw=      63,488 (    0.1 MiB) entropy=6.18 zero=3.8% printable=21.0% head=0000000000000000000000000000040003000000300000800e00000088000080
+.reloc     raw=   1,513,472 (    1.4 MiB) entropy=5.50 zero=3.7% printable=18.6% head=00902c13a800000070a000a118a130a1a8a128a240a2b8a2d0a2e8a200a318a3
+
+=== MAGIC SIGNATURE HITS (full-file scan, capped) ===
+PNG          count=  304+ by_section={'.text': 4, '.rdata': 291, '.rsrc': 9} first=[118878435, 144408013, 180184787]
+JPEG         count=  583+ by_section={'.text': 16, '.rdata': 553, '.pdata': 2, '.xdata': 12} first=[2852501, 2956742, 12471598]
+GIF          count=   10+ by_section={'.rdata': 10} first=[362389785, 372253476, 375712315]
+RIFF         count=   72+ by_section={'.text': 17, '.rdata': 55} first=[104269127, 104325445, 104325587]
+WEBP         count=   59+ by_section={'.text': 11, '.rdata': 48} first=[104269168, 118878488, 149242243]
+WAVE         count=   14+ by_section={'.text': 1, '.rdata': 13} first=[294575954, 323520656, 323522746]
+TrueType     count= 2000+ by_section={'HEADERS': 2, '.text': 1998} first=[3, 592, 15184]
+OTF          count=   30+ by_section={'.text': 5, '.rdata': 25} first=[272050111, 272050240, 314178032]
+TTC          count=    2+ by_section={'.text': 2} first=[223112313, 223124142]
+ZIP          count=    4+ by_section={'.text': 1, '.rdata': 3} first=[282969197, 385589480, 391553542]
+ZIP-end      count=    5+ by_section={'.text': 2, '.rdata': 3} first=[94659912, 94660164, 385589583]
+GZIP         count=   18+ by_section={'.text': 3, '.rdata': 4, '.pdata': 5, '.xdata': 6} first=[48308824, 201042194, 292157242]
+BZIP2        count=    4+ by_section={'.rdata': 4} first=[351767100, 366971764, 373859226]
+XZ           count=    1+ by_section={'.rdata': 1} first=[391553568]
+ZSTD         count= 2000+ by_section={'.text': 6, '.rdata': 1994} first=[284631715, 284632769, 308602006]
+7ZIP         count=    1+ by_section={'.rdata': 1} first=[391553556]
+OGG          count=    9+ by_section={'.text': 3, '.rdata': 6} first=[73149094, 283335423, 296099658]
+FLAC         count=    5+ by_section={'.text': 2, '.rdata': 3} first=[293492133, 294607565, 391139176]
+MP3          count=  146+ by_section={'.text': 2, '.rdata': 140, '.data': 1, '.pdata': 2, '.xdata': 1} first=[150572899, 294616794, 328734712]
+MP4          count=   26+ by_section={'.text': 10, '.rdata': 16} first=[118878212, 164649389, 164652859]
+ELF          count=    1+ by_section={'.rdata': 1} first=[391553584]
+SQLITE       count=    1+ by_section={'.rdata': 1} first=[389523032]
+WASM         count=    5+ by_section={'.rdata': 5} first=[386974722, 386987436, 387210583]
+XML          count=    1+ by_section={'.rdata': 1} first=[394294018]
+HTML         count=    5+ by_section={'.rdata': 5} first=[396017022, 396024440, 396026571]
+RUST-PANIC   count=   10+ by_section={'.rdata': 10} first=[368996690, 369142385, 372696746]
+RUST-PATH    count= 2000+ by_section={'.rdata': 2000} first=[321681952, 321685959, 321694991]
+CARGO-REG    count=    1+ by_section={'.rdata': 1} first=[389480532]
+PDB-PATH     count=    1+ by_section={'.rdata': 1} first=[399893407]
+GITHUB       count=   16+ by_section={'.rdata': 16} first=[359214116, 359214339, 366562034]
+
+=== TECH KEYWORDS IN SAMPLED BYTES ===
+rustc                     151
+alloc::                     4
+tokio                      14
+serde                      15
+tracing                     3
+unicode_                    1
+angle                       3
+directx                     3
+deno                        1
+egui                       75
+iced                        6
+tract                       2
+symphonia                   4
+opus                        1
+vpx                         1
+sentry                      8
+flate2                      1
+mio                         1
+discord                   976
+phoenix                    55
+
+=== PATH / SOURCE STRING SAMPLES (sampled bytes) ===
+pattern '[A-Za-z0-9_\\-.\\\\/]+[/\\\\]src[/\\\\][A-Za-z0': unique=381 total=700
+      34  unexpectedly/rustc/73dc9167f1cd099e525c9ade2e068d1907b78564/library\alloc\src\string.rs
+      31  ld_desktop_src/misc/incubator/libdiscord/media_engine/engine/media-sidecar/src\clips\video_win.rs
+      17  ld_desktop_src/misc/incubator/libdiscord/media_engine/engine/media-sidecar/src\ndi\video_win.rs
+      13  /rustc/73dc9167f1cd099e525c9ade2e068d1907b78564/library\core\src\str\pattern.rs
+      13  ld_desktop_src/misc/incubator/libdiscord/crates/ops-guild-space/src\guild_space.rs
+      11  ld_desktop_src/misc/incubator/libdiscord/desktop/vendor/gpui-pre/src\app.rs
+      11  /rustc/73dc9167f1cd099e525c9ade2e068d1907b78564/library\core\src\slice\mod.rs
+      10  ld_desktop_src/misc/incubator/libdiscord/desktop/vendor/gpui-pre/src\app\entity_map.rs
+       9  /rustc/73dc9167f1cd099e525c9ade2e068d1907b78564/library\std\src\sync\once.rs
+       9  ld_desktop_src/misc/incubator/libdiscord/desktop/discord-desktop-user-settings/src\nav\settings\user\phoenix.rs
+       7  /rustc/73dc9167f1cd099e525c9ade2e068d1907b78564/library\alloc\src\slice.rs
+       7  ld_desktop_src/misc/incubator/libdiscord/desktop/vendor/gpui-pre/src\app\context.rs
+       7  ld_desktop_src/misc/incubator/libdiscord/desktop/discord-desktop-user-settings/src\nav\settings\user\connections_link.rs
+       7  ld_desktop_src/misc/incubator/libdiscord/desktop/vendor/gpui-pre/src\app\async_context.rs
+       6  ld_desktop_crates__serde_json-1.0.154/src\ser.rs
+       6  /rustc/73dc9167f1cd099e525c9ade2e068d1907b78564/library\alloc\src\collections\vec_deque\mod.rs
+       6  /rustc/73dc9167f1cd099e525c9ade2e068d1907b78564/library\core\src\slice\sort\stable\quicksort.rs
+       5  ld_desktop_src/misc/incubator/libdiscord/desktop/discord-desktop-user-settings/src\nav\settings\account_security\keys.rs
+       5  ld_desktop_src/misc/incubator/libdiscord/desktop/discord-desktop-user-settings/src\voice\settings\advanced.rs
+       5  ld_desktop_src/misc/incubator/libdiscord/desktop/discord-desktop-user-settings/src\nav\settings\user\privacy.rs
+       5  ld_desktop_src/misc/incubator/libdiscord/desktop/discord-desktop-user-settings/src\nav\settings\user\host\load.rs
+       4  ld_desktop_src/misc/incubator/libdiscord/desktop/discord-desktop-user-settings/src\nav\settings\games_page.rs
+       4  /rustc/73dc9167f1cd099e525c9ade2e068d1907b78564/library\std\src\thread\local.rs
+       4  ld_desktop_src/misc/incubator/libdiscord/desktop/discord-desktop-shared/src\bridge.rs
+       4  ld_desktop_src/misc/incubator/libdiscord/desktop/discord-desktop-user-settings/src\nav\settings\keybind_editor.rs
+
+pattern '[A-Za-z0-9_\\-.\\\\/]+\\.rs': unique=381 total=700
+      34  unexpectedly/rustc/73dc9167f1cd099e525c9ade2e068d1907b78564/library\alloc\src\string.rs
+      31  ld_desktop_src/misc/incubator/libdiscord/media_engine/engine/media-sidecar/src\clips\video_win.rs
+      17  ld_desktop_src/misc/incubator/libdiscord/media_engine/engine/media-sidecar/src\ndi\video_win.rs
+      13  /rustc/73dc9167f1cd099e525c9ade2e068d1907b78564/library\core\src\str\pattern.rs
+      13  ld_desktop_src/misc/incubator/libdiscord/crates/ops-guild-space/src\guild_space.rs
+      11  ld_desktop_src/misc/incubator/libdiscord/desktop/vendor/gpui-pre/src\app.rs
+      11  /rustc/73dc9167f1cd099e525c9ade2e068d1907b78564/library\core\src\slice\mod.rs
+      10  ld_desktop_src/misc/incubator/libdiscord/desktop/vendor/gpui-pre/src\app\entity_map.rs
+       9  /rustc/73dc9167f1cd099e525c9ade2e068d1907b78564/library\std\src\sync\once.rs
+       9  ld_desktop_src/misc/incubator/libdiscord/desktop/discord-desktop-user-settings/src\nav\settings\user\phoenix.rs
+       7  /rustc/73dc9167f1cd099e525c9ade2e068d1907b78564/library\alloc\src\slice.rs
+       7  ld_desktop_src/misc/incubator/libdiscord/desktop/vendor/gpui-pre/src\app\context.rs
+       7  ld_desktop_src/misc/incubator/libdiscord/desktop/discord-desktop-user-settings/src\nav\settings\user\connections_link.rs
+       7  ld_desktop_src/misc/incubator/libdiscord/desktop/vendor/gpui-pre/src\app\async_context.rs
+       6  ld_desktop_crates__serde_json-1.0.154/src\ser.rs
+       6  /rustc/73dc9167f1cd099e525c9ade2e068d1907b78564/library\alloc\src\collections\vec_deque\mod.rs
+       6  /rustc/73dc9167f1cd099e525c9ade2e068d1907b78564/library\core\src\slice\sort\stable\quicksort.rs
+       5  ld_desktop_src/misc/incubator/libdiscord/desktop/discord-desktop-user-settings/src\nav\settings\account_security\keys.rs
+       5  ld_desktop_src/misc/incubator/libdiscord/desktop/discord-desktop-user-settings/src\voice\settings\advanced.rs
+       5  ld_desktop_src/misc/incubator/libdiscord/desktop/discord-desktop-user-settings/src\nav\settings\user\privacy.rs
+       5  ld_desktop_src/misc/incubator/libdiscord/desktop/discord-desktop-user-settings/src\nav\settings\user\host\load.rs
+       4  ld_desktop_src/misc/incubator/libdiscord/desktop/discord-desktop-user-settings/src\nav\settings\games_page.rs
+       4  /rustc/73dc9167f1cd099e525c9ade2e068d1907b78564/library\std\src\thread\local.rs
+       4  ld_desktop_src/misc/incubator/libdiscord/desktop/discord-desktop-shared/src\bridge.rs
+       4  ld_desktop_src/misc/incubator/libdiscord/desktop/discord-desktop-user-settings/src\nav\settings\keybind_editor.rs
+
+pattern '[A-Za-z]:[/\\\\][A-Za-z0-9_\\-.\\\\/ ]+': unique=25 total=34
+       9  p://www.w3.org/2000/svg
+       2  e://
+       1  s://bf46dfc4bf056a8290a99b9d2b0a93fe
+       1  s://phoenix-errmon.vibeyard.tools/v1/batch
+       1  s://dis.gd/Amazon-Music-Connectionhttps
+       1  s://support.discord.com/hc/articles/7924992471191permissions_message_requests_setting
+       1  s://support.google.com/youtube/answer/2657964name
+       1  s://discord.com/download
+       1  s://www.xbox.com/en-US/apps/xbox-app-for-mobileSend Discord audio to your Xbox
+       1  s://discord.com/privacyThe developer of 
+       1  s://discord.com/developers/docs/intro
+       1  s://www.facebook.com/discord/InstagramINSTAGRAMchangelog-instagramhttps
+       1  s://support.discord.com/hc/articles/360004957991
+       1  s://cdn.discordapp.com/assets/content/f5860f559ea2857185a554648b2a0b140e16bea35ed1dff11b697afd49ee2447.pngplaystationxbox
+       1  s://cdn.discordapp.com/assets/content/7b1be3836f40d812d78670cd3421cc245cae219ac7d93f5e50c4a80399bd9ef0.svgexternal/
+       1  s://cdn.discordapp.com/assets/content/12b31ddb6470a59ecf9103c1aee866f9fdb3331727949eb88029160c02be9e0e.png
+       1  N:\\
+       1  l:/v
+       1  u:\r
+       1  x://communitylinking/donut/audio
+       1  s://cdn.discordapp.com/assets/content/9c32fab6e6ac81716af1eaadd751d954d2e0cd861425f3ffd0e1f837abb465c1.pnghttps
+       1  s://cdn.discordapp.com/assets/content/eea8d5ed8ebe549494951480f5542d03c35cd4400045ef1cdecdc7a981965fad.pnghttps
+       1  s://cdn.discordapp.com/assets/content/b67b65e666d1350c52ff2abab5ac4eb205fa6545f63665aef16beeaa0efef060.webp
+       1  s://cdn.discordapp.com/assets/content/0fc80968a5a6bcc494140841f89dfc51b53aa66639800fef2d52b135c3ac0895.png
+       1  s://http
+
+pattern "https?://[A-Za-z0-9._~:/?#\\[\\]@!$&'()*+,": unique=18 total=26
+       9  http://www.w3.org/2000/svg
+       1  https://bf46dfc4bf056a8290a99b9d2b0a93fe@o64374.ingest.us.sentry.io/4512273212899328discord-desktop-phoenix@0.1.0-dev.20261123093910.gb71ec80b71ec8038fe99a85585c1846b05399c174fd7a4
+       1  https://phoenix-errmon.vibeyard.tools/v1/batch
+       1  https://dis.gd/Amazon-Music-Connectionhttps://support.google.com/youtube/answer/1646861
+       1  https://support.discord.com/hc/articles/7924992471191permissions_message_requests_setting
+       1  https://support.google.com/youtube/answer/2657964name
+       1  https://discord.com/download#ptb-card).DOWNLOAD_DESKTOP_FOOTERdownload-apps-footerDownload
+       1  https://www.xbox.com/en-US/apps/xbox-app-for-mobileSend
+       1  https://discord.com/privacyThe
+       1  https://discord.com/developers/docs/intro
+       1  https://www.facebook.com/discord/InstagramINSTAGRAMchangelog-instagramhttps://www.instagram.com/discord/
+       1  https://support.discord.com/hc/articles/360004957991
+       1  https://cdn.discordapp.com/assets/content/f5860f559ea2857185a554648b2a0b140e16bea35ed1dff11b697afd49ee2447.pngplaystationxbox
+       1  https://cdn.discordapp.com/assets/content/7b1be3836f40d812d78670cd3421cc245cae219ac7d93f5e50c4a80399bd9ef0.svgexternal/+desktop_crates+ld_desktop_src/misc/incubator/libdiscord/desk
+       1  https://cdn.discordapp.com/assets/content/12b31ddb6470a59ecf9103c1aee866f9fdb3331727949eb88029160c02be9e0e.png
+       1  https://cdn.discordapp.com/assets/content/9c32fab6e6ac81716af1eaadd751d954d2e0cd861425f3ffd0e1f837abb465c1.pnghttps://cdn.discordapp.com/assets/content/2ccd35aea50dbd88b553b318570d
+       1  https://cdn.discordapp.com/assets/content/0fc80968a5a6bcc494140841f89dfc51b53aa66639800fef2d52b135c3ac0895.png
+       1  https://http://
+
