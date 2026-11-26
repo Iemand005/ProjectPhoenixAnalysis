@@ -1,4 +1,5 @@
 import collections
+import itertools
 import math
 import re
 import struct
@@ -102,22 +103,10 @@ keywords = [
     "discord", "phoenix", "applyzer", "applyzer", "protobuf", "prost", "flatbuffers", "msgpack",
 ]
 for kw in keywords:
-    needle = kw.lower().encode()
-    count = 0
-    first = None
-    start = 0
-    while True:
-        i = data.lower().find(needle, start)
-        if i < 0:
-            break
-        count += 1
-        if first is None:
-            first = i
-        if count >= 20000:
-            break
-        start = i + 1
-    if count:
-        print(f"{kw:22s} count>={count:>6d} first={first} section={which_section(first) if first is not None else '-'}")
+    pat = re.compile(re.escape(kw.encode()), re.I)
+    hits = list(itertools.islice((m.start() for m in pat.finditer(data)), 20000))
+    if hits:
+        print(f"{kw:22s} count>={len(hits):>6d} first={hits[0]} section={which_section(hits[0])}")
 print()
 
 print("=== SOURCE-FILE / PATH SAMPLES ===")
