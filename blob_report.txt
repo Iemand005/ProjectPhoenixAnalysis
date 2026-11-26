@@ -1,0 +1,187 @@
+=== blob 328,432,128..330,922,496 (2.38 MiB) ===
+  preceding strings (last 6):
+    328,412,185: y;=9o7giv
+    328,419,528: i~~inaQ;
+    328,421,695: A2p!~oyg
+    328,424,853: `t~HzOA]tsH
+    328,430,332: oaP\1V_u
+    328,431,667: 511+Qk!}
+  following strings (first 6):
+    330,923,005: >M"#C"n;
+    330,927,776: kFwg)9H-Q
+    330,928,743: 'T]m9O;=
+    330,928,789: U#v1"Fk`A
+    330,930,164: %9(mj^~{
+    330,937,619: p0(51-29
+  markers: zlib=37, brotli=43, mp3=1676, png=12; top bytes: [(0, 26414), (85, 14916), (170, 10460), (255, 9755)]
+
+=== blob 331,053,568..332,495,360 (1.38 MiB) ===
+  preceding strings (last 6):
+    331,043,437: <LAME3.99r
+    331,044,935: N(DbcM|0
+    331,045,464: MQ",f\.-2
+    331,051,443: Ce*M:a3A@
+    331,052,475: LAME3.99.5
+    331,053,331: LAME3.99.5
+  following strings (first 6):
+    332,497,818: 2Zpt;7R/>  
+    332,499,388: f\rp\eUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+    332,501,529: YLAME3.98.2
+    332,502,620: f\rp\eUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+    332,504,676: f\rp\eUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.98.2UUUUUUUUUUUUUUUUUU
+    332,504,834: UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+  markers: gzip=1, zlib=23, brotli=17, mp3=730; top bytes: [(85, 27107), (170, 26186), (0, 17353), (48, 6761)]
+
+=== blob 332,626,432..333,675,008 (1.00 MiB) ===
+  preceding strings (last 6):
+    332,622,576:                                                                                                     
+    332,622,677:                                                                                                     
+    332,622,778:                                                                                                     
+    332,622,879:                            
+    332,622,907: <?xpacket end="w"?>
+    332,626,270: =Q5^vxZF
+  following strings (first 6):
+    333,683,791: bx^M%"ua
+    333,685,846: kF)+SC18a
+    333,687,674: Sn9#r9"h
+    333,688,473: XhC4TS#"
+    333,690,932: nkk{9(j6
+    333,705,988: +_D[lrN7
+  markers: gzip=1, zlib=18, brotli=11, mp3=1380; top bytes: [(0, 21131), (255, 7092), (68, 6937), (16, 6386)]
+
+=== blob 333,740,544..335,378,944 (1.56 MiB) ===
+  preceding strings (last 6):
+    333,724,852: msXgZ3=^
+    333,725,269: HT!})!5T*
+    333,726,051: d[+*r"z3
+    333,730,508: mVM6~ !1'
+    333,735,447: |sF)yeO<9
+    333,739,181: 7*e_V$KQ
+  following strings (first 6):
+    335,379,598: H~$"B=m)`
+    335,385,399: m/N9h3ud
+    335,386,179: <kf[Sn~jn
+    335,395,185: MBtLC1M'3
+    335,398,099: @g((&-z#%
+    335,399,179: )"k#6uZj
+  markers: zlib=25, brotli=29, mp3=3497; top bytes: [(255, 28658), (0, 12103), (170, 7407), (251, 6631)]
+
+=== blob 335,444,480..341,998,080 (6.25 MiB) ===
+  preceding strings (last 6):
+    335,434,013: PLAME3.100
+    335,434,473: b)^7O=K+
+    335,436,170: MT{l3zDg
+    335,437,801: j-,:+hzZ_;e"B
+    335,438,621: {$T"x2t<
+    335,443,444: S#y&Z|7.y[
+  following strings (first 6):
+    342,003,697: I;+xA0E"
+    342,014,568: rounded_logo.png
+    342,014,752: ?7^#^k~S
+    342,015,315: Eo"!dnEiV
+    342,016,907: <m_R^fnY
+    342,022,504: bundle_avatar_decoration_dark_placeholder.png
+  markers: zlib=100, brotli=58, mp3=1346, png=110, webp=25; top bytes: [(0, 11040), (170, 10910), (85, 10028), (255, 7221)]
+
+=== blob 343,636,480..345,012,736 (1.31 MiB) ===
+  preceding strings (last 6):
+    343,614,213: /8%C=&v4
+    343,615,375: fg?ef$ge9
+    343,618,041: )sxzbn,I
+    343,624,243: O"!^BEldLU8
+    343,630,562: kI$k++p:
+    343,633,702: k!LVx(pE
+  following strings (first 6):
+    345,012,736: d-1f468-1f3ff1f468-1f3fe-200d-1f9af1f468-1f3fe-200d-1f9af-200d-27a1-fe0f1f468-1f3fe-200d-1f9b01f468-1f3fe-200d-1f9b11f468-1f3fe-200d-1f9b21f468-1f3fe-200d-1f9b3
+    345,137,128: Did we get it wrong?GUILD_AUTOMOD_REPORT_FEEDBACK_MODAL_TITLELet us know if this message shouldn
+    345,137,227: t have been caught so we can improve AutoMod for the future. By doing this, you are also sending the flagged message to Discord.GUILD_AUTOMOD_REPORT_FEEDBACK_MO
+    345,137,464: Remove Mention Raid RestrictionsGUILD_AUTOMOD_REMOVE_MENTION_RAID_MODAL_TITLEAre you sure you want to remove all message restrictions that were placed on this s
+    345,137,840: newNEWexternal/+desktop_crates+ld_desktop_src/misc/incubator/libdiscord/desktop/discord-desktop/src\chat\message\divider.rs
+    345,138,000: chat-dividercommonlispschemefsharpelispmarkdown_inlinex86asmbatchfishssh-configjinja2textprotostarlarkbzltextpbj2ssh_configshbatasmmdelfsscmlisppunctuation.defi
+  markers: zstd=60, zlib=25, brotli=21, mp3=17; top bytes: [(68, 4981), (0, 4703), (34, 4689), (136, 4662)]
+
+=== blob 346,782,208..357,267,968 (10.00 MiB) ===
+  preceding strings (last 6):
+    346,765,776: t Q>zzPc
+    346,765,868: xc|0f4\U
+    346,768,072: )}:vL(#G!T
+    346,769,674: TWj*VvW7
+    346,777,277: @DZ{SMte(
+    346,778,503: ~^7]!_x>_
+  following strings (first 6):
+    357,267,968: e Your ProfilePREMIUM_MARKETING_PERKS_DISCOVERABILITY_PROFILES_TITLEUse a different avatar, profile theme, banner, and bio in each of your servers.PREMIUM_MARKE
+    357,268,448: premium_marketing_comparison2026-04-quests-premium-orb-multiplier-marketingquests/experiments/index.tsxuseQuestOrbsMultiplierMarketing
+    357,268,648: nitro_home_marketing2026-03-steelseries-3p-recurringpremium/experiments/Recurring3PPromotionExperiment.tsxuseThirdPartyPartnerPerkCards
+    357,268,848: useGetV2PlanComparisonTableRowsApplicationHome2026-03-l-3pppremium/logitech_3pp/Logitech3PPExperiment.tsx
+    357,269,024: 2025-12-katsudonPremiumGroupPurchaseBest of NitroPREMIUM_FAVORITES_FILTER_BEST_OF_NITROReport AppREPORT_APPactivity_ui_popoutUnknownDisabledDisconnectedConnecti
+    357,269,198: safety-system-notification-
+  markers: zstd=1355, zlib=156, brotli=171, mp3=155; top bytes: [(0, 4860), (16, 4694), (20, 4623), (36, 4611)]
+
+=== blob 357,988,864..359,102,976 (1.06 MiB) ===
+  preceding strings (last 6):
+    357,971,128: G'?x`SoC
+    357,971,173: 77\c_-@I
+    357,977,992: k"GYFzw.rAF
+    357,978,032: JK;Nz"fF
+    357,979,423: rMm0Di3"s<9k
+    357,983,821: SYFvfz7u
+  following strings (first 6):
+    359,105,172: JgT|*?oS
+    359,108,725: .-mJJieg8
+    359,113,586: yhBy\_;' 
+    359,116,448: <svg xmlns="http://www.w3.org/2000/svg" width="232" height="130" viewBox="0 0 232 130"><defs><linearGradient id="p" x1="0" y1="0" x2="0" y2="1"><stop offset="0"
+    359,117,488: <svg xmlns="http://www.w3.org/2000/svg" width="64" height="48" viewBox="0 0 64 48"><circle cx="26" cy="26" r="16" fill="#5865f2"/><circle cx="26" cy="22" r="6" 
+    359,117,888: <svg xmlns="http://www.w3.org/2000/svg" width="288" height="162" viewBox="0 0 288 162"><defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0"
+  markers: zstd=276, zlib=16, brotli=22, mp3=12; top bytes: [(36, 4867), (40, 4862), (32, 4801), (68, 4787)]
+
+=== blob 359,299,584..364,345,856 (4.81 MiB) ===
+  preceding strings (last 6):
+    359,298,664: Completing this purchase will update your Country/Region to **{country}**. This means:
+    359,298,752: - You won't be able to use a payment method from a different Country/Region
+    359,298,828: - You won't be able to change your Country/Region again for 90 daysCheckout.CHECKOUT_STORE_RELOCATION_NOTICE_NO_GIFT_CARDCompleting this purchase will update yo
+    359,299,037: - You'll lose your existing gift card balance
+    359,299,083: - You won't be able to use a payment method from a different Country/Region
+    359,299,159: - You won't be able to change your Country/Region again for 90 daysCheckout.CHECKOUT_STORE_RELOCATION_NOTICEBy clicking '{purchaseButtonText}', you are signing 
+  following strings (first 6):
+    364,359,256: event external/+desktop_crates+ld_desktop_src/misc/incubator/libdiscord/desktop/discord-desktop-features-ui/src\features_ui\nitro_home\mod.rs:3009discord_deskto
+    364,359,584: discord_desktop_features_ui::features_ui::nitro_homeexternal/+desktop_crates+ld_desktop_src/misc/incubator/libdiscord/desktop/discord-desktop-features-ui/src\fe
+    364,359,896: event external/+desktop_crates+ld_desktop_src/misc/incubator/libdiscord/desktop/discord-desktop-features-ui/src\features_ui\nitro_home\mod.rs:3034position
+    364,360,272: event external/+desktop_crates+ld_desktop_src/misc/incubator/libdiscord/desktop/discord-desktop-features-ui/src\features_ui\nitro_home\mod.rs:3040
+    364,360,544: event external/+desktop_crates+ld_desktop_src/misc/incubator/libdiscord/desktop/discord-desktop-features-ui/src\features_ui\nitro_home\mod.rs:3026loops
+    364,360,912: event external/+desktop_crates+ld_desktop_src/misc/incubator/libdiscord/desktop/discord-desktop-features-ui/src\features_ui\assets.rs:517discord_desktop_feature
+  markers: zlib=76, brotli=71, mp3=107, png=45, webp=15; top bytes: [(0, 11930), (1, 5225), (32, 5130), (255, 4741)]
+
+=== blob 370,178,560..371,948,032 (1.69 MiB) ===
+  preceding strings (last 6):
+    370,170,668:  {duration}
+    370,170,710: s, number} 
+    370,170,738:  {minutes, plural, =0 ) {count, plural, one {#(
+    370,170,837: 8EtM,37r
+    370,171,437: tyjdd1heBK
+    370,176,598: IH/,G7dd
+  following strings (first 6):
+    371,948,624: event external/+desktop_crates+ld_desktop_src/misc/incubator/libdiscord/crates/client/src\ops\warmup.rs:431libdiscord::ops::warmupmessage
+    371,948,848: external/+desktop_crates+ld_desktop_src/misc/incubator/libdiscord/crates/client/src\ops\warmup.rs
+    371,949,072: event external/+desktop_crates+ld_desktop_src/misc/incubator/libdiscord/crates/client/src\ops\warmup.rs:503
+    371,949,304: event external/+desktop_crates+ld_desktop_src/misc/incubator/libdiscord/crates/client/src\ops\warmup.rs:524
+    371,949,536: event external/+desktop_crates+ld_desktop_src/misc/incubator/libdiscord/crates/client/src\ops\warmup.rs:540
+    371,949,768: event external/+desktop_crates+ld_desktop_src/misc/incubator/libdiscord/crates/client/src\ops\suspended.rs:352libdiscord::ops::suspendedexternal/+desktop_crates
+  markers: zstd=2680, zlib=31, brotli=25, mp3=29; top bytes: [(0, 8004), (40, 6143), (139, 6096), (13, 6004)]
+
+=== blob 382,761,472..383,810,048 (1.00 MiB) ===
+  preceding strings (last 6):
+    382,756,221:   (((//66==CCJJJQQXX^^bbbeehhkknnssszz
+    382,756,317: PLAME3.100
+    382,756,993: g@wFvgff
+    382,757,652: bnf^8^6. p
+    382,757,833: hQ@_1HL?4;/
+    382,761,359: Et' 0+hP
+  following strings (first 6):
+    383,814,168: OsJ"GAdX 
+    383,815,113: g0d?-~nn
+    383,815,451: 1k[>]9B}
+    383,820,939: &%X*(Thrr
+    383,821,889: oJLAME3.100
+    383,821,931: LAME3.100
+  markers: zlib=20, brotli=8, mp3=2709; top bytes: [(0, 20379), (255, 15611), (128, 7244), (85, 6573)]
+
