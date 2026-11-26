@@ -1,0 +1,294 @@
+{
+  "path": "C:\\Users\\Lasse\\AppData\\Local\\DiscordPhoenix\\app\\Discord.exe",
+  "size": 518388664,
+  "pe_offset": 120,
+  "machine": "0x8664",
+  "sections_count": 15,
+  "timestamp": 3697294483,
+  "symbol_table": {
+    "ptr": 0,
+    "count": 0
+  },
+  "optional_header": {
+    "magic": "0x20b",
+    "imagebase": "0x140000000",
+    "section_align": 4096,
+    "file_align": 512,
+    "osver": [
+      6,
+      0
+    ],
+    "imgver": [
+      0,
+      0
+    ],
+    "subver": [
+      6,
+      0
+    ],
+    "imagesize": 519266304,
+    "headersize": 1536,
+    "checksum": "0x1ee6c2a8",
+    "subsystem": 2,
+    "dllchars": "0xc160",
+    "stack": [
+      8388608,
+      4096
+    ],
+    "heap": [
+      1048576,
+      4096
+    ],
+    "nrva": 16
+  },
+  "directories": [
+    {
+      "name": "EXPORT",
+      "rva": 0,
+      "size": 0
+    },
+    {
+      "name": "IMPORT",
+      "rva": 400863048,
+      "size": 1020
+    },
+    {
+      "name": "RESOURCE",
+      "rva": 517685248,
+      "size": 63488
+    },
+    {
+      "name": "EXCEPTION",
+      "rva": 407945216,
+      "size": 24326772
+    },
+    {
+      "name": "SECURITY",
+      "rva": 518377984,
+      "size": 10680
+    },
+    {
+      "name": "BASERELOC",
+      "rva": 517750784,
+      "size": 1513032
+    },
+    {
+      "name": "DEBUG",
+      "rva": 399898944,
+      "size": 56
+    },
+    {
+      "name": "ARCHITECTURE",
+      "rva": 0,
+      "size": 0
+    },
+    {
+      "name": "GLOBALPTR",
+      "rva": 0,
+      "size": 0
+    },
+    {
+      "name": "TLS",
+      "rva": 398964528,
+      "size": 40
+    },
+    {
+      "name": "LOAD_CONFIG",
+      "rva": 398888880,
+      "size": 320
+    },
+    {
+      "name": "BOUND_IMPORT",
+      "rva": 0,
+      "size": 0
+    },
+    {
+      "name": "IAT",
+      "rva": 400871152,
+      "size": 7080
+    },
+    {
+      "name": "DELAY_IMPORT",
+      "rva": 0,
+      "size": 0
+    },
+    {
+      "name": "COM_DESCRIPTOR",
+      "rva": 0,
+      "size": 0
+    },
+    {
+      "name": "CLR_HEADER",
+      "rva": 0,
+      "size": 0
+    }
+  ],
+  "sections": [
+    {
+      "name": ".text",
+      "vsize": 321680246,
+      "va": 4096,
+      "rawsize": 321680384,
+      "rawptr": 1536,
+      "chars": "0x60000020",
+      "relocations": 0
+    },
+    {
+      "name": ".rdata",
+      "vsize": 79268040,
+      "va": 321687552,
+      "rawsize": 79268352,
+      "rawptr": 321681920,
+      "chars": "0x40000040",
+      "relocations": 0
+    },
+    {
+      "name": ".data",
+      "vsize": 6986440,
+      "va": 400957440,
+      "rawsize": 6134272,
+      "rawptr": 400950272,
+      "chars": "0xc0000040",
+      "relocations": 0
+    },
+    {
+      "name": ".pdata",
+      "vsize": 24326772,
+      "va": 407945216,
+      "rawsize": 24327168,
+      "rawptr": 407084544,
+      "chars": "0x40000040",
+      "relocations": 0
+    },
+    {
+      "name": ".eh_fram",
+      "vsize": 88,
+      "va": 432275456,
+      "rawsize": 512,
+      "rawptr": 431411712,
+      "chars": "0x40000040",
+      "relocations": 0
+    },
+    {
+      "name": ".fptable",
+      "vsize": 256,
+      "va": 432279552,
+      "rawsize": 512,
+      "rawptr": 431412224,
+      "chars": "0xc0000040",
+      "relocations": 0
+    },
+    {
+      "name": ".itt_not",
+      "vsize": 5276,
+      "va": 432283648,
+      "rawsize": 5632,
+      "rawptr": 431412736,
+      "chars": "0x40000040",
+      "relocations": 0
+    },
+    {
+      "name": ".pdata",
+      "vsize": 33660,
+      "va": 432291840,
+      "rawsize": 33792,
+      "rawptr": 431418368,
+      "chars": "0x40000000",
+      "relocations": 0
+    },
+    {
+      "name": ".tls",
+      "vsize": 17337,
+      "va": 432328704,
+      "rawsize": 17408,
+      "rawptr": 431452160,
+      "chars": "0xc0000040",
+      "relocations": 0
+    },
+    {
+      "name": ".xdata",
+      "vsize": 84885100,
+      "va": 432349184,
+      "rawsize": 84885504,
+      "rawptr": 431469568,
+      "chars": "0x40000040",
+      "relocations": 0
+    },
+    {
+      "name": "IPPCODE",
+      "vsize": 439445,
+      "va": 517234688,
+      "rawsize": 439808,
+      "rawptr": 516355072,
+      "chars": "0x60000020",
+      "relocations": 0
+    },
+    {
+      "name": "IPPDATA",
+      "vsize": 1792,
+      "va": 517677056,
+      "rawsize": 2048,
+      "rawptr": 516794880,
+      "chars": "0xc0000040",
+      "relocations": 0
+    },
+    {
+      "name": "_RDATA",
+      "vsize": 3588,
+      "va": 517681152,
+      "rawsize": 4096,
+      "rawptr": 516796928,
+      "chars": "0x40000040",
+      "relocations": 0
+    },
+    {
+      "name": ".rsrc",
+      "vsize": 63488,
+      "va": 517685248,
+      "rawsize": 63488,
+      "rawptr": 516801024,
+      "chars": "0x40000040",
+      "relocations": 0
+    },
+    {
+      "name": ".reloc",
+      "vsize": 1513032,
+      "va": 517750784,
+      "rawsize": 1513472,
+      "rawptr": 516864512,
+      "chars": "0x42000040",
+      "relocations": 0
+    }
+  ],
+  "overlay": {
+    "start": 518377984,
+    "size": 10680
+  },
+  "resources": {
+    "count": 0,
+    "total_size": 0,
+    "entries": []
+  },
+  "debug": [
+    {
+      "type": 0,
+      "timestamp": 3697294483,
+      "version": "0.0",
+      "size": 399893368
+    },
+    {
+      "type": 0,
+      "timestamp": 3697294483,
+      "version": "0.0",
+      "size": 0
+    }
+  ],
+  "certificates": [
+    {
+      "offset": 518377984,
+      "length": 10680,
+      "type": 512,
+      "revision": 2
+    }
+  ]
+}
